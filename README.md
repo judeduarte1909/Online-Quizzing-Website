@@ -15,7 +15,6 @@ Welcome to the Online Quizzing Website! This project is a simple web-based quiz 
 
 #Usage
 1. Start the Quiz:
-2. 
   Open the index.html file in your browser.
 
   The quiz will load automatically.
