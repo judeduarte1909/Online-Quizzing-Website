@@ -4,13 +4,13 @@ Welcome to the Online Quizzing Website! This project is a simple web-based quiz 
 
 #Features :
 
-1.Dynamic quiz questions with multiple-choice answers.
+1. Dynamic quiz questions with multiple-choice answers.
 
-2.Tracks and displays the user's score.
+2. Tracks and displays the user's score.
 
-3.Provides feedback at the end of the quiz with the option to retake the quiz.
+3. Provides feedback at the end of the quiz with the option to retake the quiz.
 
-4.Responsive design suitable for both desktop and mobile devices.
+4. Responsive design suitable for both desktop and mobile devices.
 
 
 #Usage
@@ -19,13 +19,13 @@ Welcome to the Online Quizzing Website! This project is a simple web-based quiz 
 
   The quiz will load automatically.
 
-2.Answer the Questions:
+2. Answer the Questions:
 
   Select one of the multiple-choice options for each question.
   
   Click the "Submit" button to move to the next question.
 
-3.View Your Score:
+3. View Your Score:
 
   At the end of the quiz, your score will be displayed along with a message of congratulations.
   
