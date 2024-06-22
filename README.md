@@ -3,10 +3,10 @@
 Welcome to the Online Quizzing Website! This project is a simple web-based quiz application built using HTML, CSS, and JavaScript.
 
 #Features :
-Dynamic quiz questions with multiple-choice answers.
-Tracks and displays the user's score.
-Provides feedback at the end of the quiz with the option to retake the quiz.
-Responsive design suitable for both desktop and mobile devices.
+1.Dynamic quiz questions with multiple-choice answers.
+2.Tracks and displays the user's score.
+3.Provides feedback at the end of the quiz with the option to retake the quiz.
+4.Responsive design suitable for both desktop and mobile devices.
 
 
 #Usage
